@@ -22,7 +22,9 @@
     </properties>
 
     <scm>
-        <developerConnection>scm:git@github.com:eguller/spring-boot-blog-app.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:eguller/spring-boot-blog-app.git</developerConnection>
+        <connection>scm:git:git://github.com/eguller/spring-boot-blog-app</connection>
+        <url>https://github.com/eguller/spring-boot-blog-app</url>
     </scm>
 
     <distributionManagement>
